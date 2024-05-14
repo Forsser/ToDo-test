@@ -1,0 +1,10 @@
+@import './normalize.css';
+@import "rsuite/dist/rsuite.css";
+
+
+body{
+  background: #2193b0;  /* fallback for old browsers */
+  background: linear-gradient(to right, #c8f1f1, #15768e); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background-size: cover;
+  color: rgb(0, 0, 0);
+}
